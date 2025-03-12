@@ -18,7 +18,7 @@
     "typescript": "^5.7.3"
   },
   "dependencies": {
-    "blah-blah": "^1.0.10",
+    "blah-blah": "^1.0.11",
     "dayjs": "^1.11.13",
     "dotenv": "^16.4.7",
     "googleapis": "^144.0.0",
